@@ -27,15 +27,18 @@
 3. To exit doodle mode, click the extension icon again.
 
 ## Screenshots
-<img width="164" alt="thumbnail" src="https://github.com/BHAVISHEK1/WebDoodler_ChromeExtension/assets/161573600/54b718b6-d5a8-4e8f-9fc7-5dbb35f3b15f">
+
 <img width="251" alt="Screenshot 2" src="https://github.com/BHAVISHEK1/WebDoodler_ChromeExtension/assets/161573600/68f334b3-a4fe-45c6-a327-14146c45dff5">
+<img width="164" alt="thumbnail" src="https://github.com/BHAVISHEK1/WebDoodler_ChromeExtension/assets/161573600/54b718b6-d5a8-4e8f-9fc7-5dbb35f3b15f">
+<img width="267" alt="Screenshot 2024-06-11 055953" src="https://github.com/BHAVISHEK1/WebDoodler_ChromeExtension/assets/161573600/04f9877a-837f-40fd-9a7b-fe8c4e82e931">
+
 
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or find any issues, feel free to create a pull request or open an issue.
 
 ## Contact
-For any inquiries or feedback, please reach out to me at [ay7924252@gmail.com](mailto:ay7924252@gmail.com) And [LinkedIn](linkedin.com/in/abhishek-yadav-908639280)
+For any inquiries or feedback, please reach out to me at [ay7924252@gmail.com](mailto:ay7924252@gmail.com) And [LinkedIn](https://www.linkedin.com/in/abhishek-yadav-908639280)
 
 ---
 
