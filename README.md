@@ -39,9 +39,6 @@
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or find any issues, feel free to create a pull request or open an issue.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any inquiries or feedback, please reach out to me at [ay7924252@gmail.com](mailto:ay7924252@gmail.com).[LinkedIn](linkedin.com/in/abhishek-yadav-908639280)
 
