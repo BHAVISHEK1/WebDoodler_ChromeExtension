@@ -1,13 +1,17 @@
-# Doodle on the Web
+# Web Doodler
 
 ## Overview
-**Doodle on the Web** is a Chrome extension that allows users to draw directly on any webpage. Whether you need to annotate, highlight, or just have fun doodling, this extension makes it easy to unleash your creativity right in your browser.
+**Web Doodler** is a Chrome extension that allows users to draw directly on any webpage. Whether you need to annotate, highlight, or just have fun doodling, this extension makes it easy to unleash your creativity right in your browser.
 
 ## Features
 - **Draw Anywhere**: Activate doodle mode to draw on any webpage.
 - **Save Your Work**: Save your doodles as images.
 - **Erase & Clear**: Easily erase parts of your doodle or clear the entire canvas.
 - **Color Options**: Choose from a variety of colors to make your doodles stand out.
+
+## Download and use 
+
+[Download from Chrome Web store](https://chromewebstore.google.com/detail/webpage-doodler/lbodekjfnafmhkbaegjapfimodhppepa)
 
 ## Installation
 1. **Clone the repository:**
