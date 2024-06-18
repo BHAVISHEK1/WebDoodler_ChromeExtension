@@ -27,7 +27,8 @@
 3. To exit doodle mode, click the extension icon again.
 
 ## Screenshots
-![Extension Icon](screenshots/extension-icon.png)
+![Extension Icon](<img width="164" alt="thumbnail" src="https://github.com/BHAVISHEK1/WebDoodler_ChromeExtension/assets/161573600/9a4e5e09-46db-4955-be43-5b678fd463e4">
+)
 *Icon in the Chrome toolbar.*
 
 ![Doodle Toolbar](screenshots/doodle-toolbar.png)
@@ -40,7 +41,7 @@
 Contributions are welcome! If you have suggestions for improvements or find any issues, feel free to create a pull request or open an issue.
 
 ## Contact
-For any inquiries or feedback, please reach out to me at [ay7924252@gmail.com](mailto:ay7924252@gmail.com).[LinkedIn](linkedin.com/in/abhishek-yadav-908639280)
+For any inquiries or feedback, please reach out to me at [ay7924252@gmail.com](mailto:ay7924252@gmail.com) And [LinkedIn](linkedin.com/in/abhishek-yadav-908639280)
 
 ---
 
